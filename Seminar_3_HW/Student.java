@@ -24,7 +24,7 @@ public class Student implements Comparable<Student> {
     }
 
     public String getLastName() {
-        return firstName;
+        return lastName;
     }
 
     public void setLastName(String lastName) {
@@ -32,7 +32,7 @@ public class Student implements Comparable<Student> {
     }
 
     public String getMiddleName() {
-        return firstName;
+        return middleName;
     }
 
     public void setMiddleName(String middleName) {
